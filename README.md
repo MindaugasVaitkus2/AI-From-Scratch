@@ -26,3 +26,11 @@ This Program is inspired by (Make sure you read in the order mentioned below in 
     - Coursera Deep Learning Course by Andrew Ng
     - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
     - Artificial Intelligence: A Modern Approach
+    
+
+
+# Introduction 
+
+We are a species who are highly intelligent capable of turning tables. We can make war, we can make coffee and start a revolution and even start an industry. We also has the capability to change lives -- we can either make or destroy. 
+
+Being intelligent is all about ataining skills and knowledge to make decision and comprehend the world in all it's beauty. 
