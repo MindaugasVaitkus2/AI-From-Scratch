@@ -31,6 +31,10 @@ This Program is inspired by (Make sure you read in the order mentioned below in 
 
 # Introduction 
 
-We are a species who are highly intelligent capable of turning tables. We can make war, we can make coffee and start a revolution and even start an industry. We also has the capability to change lives -- we can either make or destroy. 
+We are a species who are highly intelligent capable of turning events. We can make war, we can make coffee and start a revolution. Time in its very essence has revealed invaluable secrets to human beings about its nature which has allowed us to evolve and hence made us greater than any other speies around us. The capabilities of human beings are just expanding, from creating a wheel to spliting the atom, we seen everything that makes up a species like us. And now we are aiming to the stars. 
+
+Our intelligence is expanding in an incredible rate. The thought of what we can do relies in the deepest part of our brain. At one point we are aimless, with no purpose in our lives -- we feel contempt about ourselves, we feel invaluable -- but other times we are as strong like never before. Our intelligence is completely different from what we feel, the ground truth is we have a system build inside of us that has invaluable information stored within itself. It is only a matter of chosing. Once we choose to rely on the truth we can unravel all the mysteries of the universe. 
+
+Our brain is one of the most important part 
 
 Being intelligent is all about ataining skills and knowledge to make decision and comprehend the world in all it's beauty. 
