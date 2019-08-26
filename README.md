@@ -35,6 +35,6 @@ We are a species who are highly intelligent capable of turning events. We can ma
 
 Our intelligence is expanding in an incredible rate. The thought of what we can do relies in the deepest part of our brain. At one point we are aimless, with no purpose in our lives -- we feel contempt about ourselves, we feel invaluable -- but other times we are as strong like never before. Our intelligence is completely different from what we feel, the ground truth is we have a system build inside of us that has invaluable information stored within itself. It is only a matter of chosing. Once we choose to rely on the truth we can unravel all the mysteries of the universe. 
 
-Our brain is one of the most important parts in our body. But, why it is important? I think because it can think and make decisions. The brain is one of the largest and most complex organs in the human body. With trillion of neurons connected to each other it helps us to shape our lives and others as well. The brain forms its own structural complexity and divides itself to perform a specific task. The more complex the task the more neurons engage to solve the given task. 
+Our brain is one of the most important parts in our body. But, why it is important? I believe because it can think and make decisions. 
 
-<b> Being intelligent is all about ataining skills and knowledge to make decision and comprehend the world in all it's beauty along with ravaling the mysteries of the universe </b>.  
+<b>Being intelligent is all about ataining skills and knowledge to make decision and comprehend the world in all it's beauty. </b>
