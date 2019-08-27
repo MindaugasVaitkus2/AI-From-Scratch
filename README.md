@@ -186,4 +186,4 @@ Robotics: It is a field of engineering focused on the design and manufacturing o
 
 # Types of Machine Learning 
 
-<img scr='images/Types of AI.png'>
+<img scr='AI.png'>
