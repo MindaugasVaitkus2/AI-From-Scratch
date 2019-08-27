@@ -182,3 +182,8 @@ Computer Vision can be said as a field which enables the machines to see. Machin
 ### Robotics
 
 Robotics: It is a field of engineering focused on the design and manufacturing of robots. Robots are often used to perform tasks that are difficult for humans to perform or perform consistently. Examples include car assembly lines, in hospitals, office cleaner, serving foods, and preparing foods in hotels, patrolling farm areas and even as police officers. Recently machine learning has been used to achieve certain good results in building robots that interact socially(Sophia)
+
+
+# Types of Machine Learning 
+
+<img scr='images/Types of AI.png'>
