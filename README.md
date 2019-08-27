@@ -30,6 +30,11 @@ This Program is inspired by (Make sure you read in the order mentioned below in 
     - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
     - Artificial Intelligence: A Modern Approach
     
+ Additional Reading:
+ 
+    - Homo Deus by Yuval Noah Harari
+    - Machine Who Think by Pamela Mccorduck
+    
 
 
 # Introduction 
@@ -190,4 +195,7 @@ In the given image below we find that Machine Learning is a subset of AI. Along 
 
 ![](images/AI.png)
 
-Figure 1: Courtesy <i> Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+<caption>Figure 1: Courtesy <i> Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville</i></caption>
+    
+    
+ 
