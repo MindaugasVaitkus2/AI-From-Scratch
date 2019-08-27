@@ -186,8 +186,7 @@ Robotics: It is a field of engineering focused on the design and manufacturing o
 
 # Types of Machine Learning 
 
-<<<<<<< HEAD
-=======
+
 In the given image below we find that Machine Learning is a subset of AI. Along with other terminology which we will discuss in this following section. 
 
 ![](images/AI.png)
