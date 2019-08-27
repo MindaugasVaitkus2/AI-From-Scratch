@@ -143,3 +143,11 @@ Next to classic Atari games, DeepMind also managed to defeat the world best huma
 If you are more interested in the story about AlphaGo I recommend the movie about it. In my opinion the movie is great and shows, next to the technical impact of the AI, the impact on the Go community.
 
 In 2017 DeepMind published the next generation of AlphaGo. AlphaGo Zero is build up on reduced hardware and just learned Go to play against itself. After three days of training AlphaGo Zero was stronger than the version of AlphaGo who defeated Lee Sedol and won against his younger version with 100-0. After 40 days of training it also defeated his former version of AlphaGo Zero.
+
+<hr>
+
+Not to forget many of the cartoons and movies that we see has a bit of AI and fiction in it. In 2019, if you observe carefully we are surrounded by AI. It is everywhere.
+
+Elon Musk with his company Neuralink, Tesla, OpenAI and then we have Google with its applications like Youtube, Google Translate and so on along with IBM Watson, Microsoft, Netflix, Facebook and even Instagram. All of them they use AI. 
+
+<hr>
