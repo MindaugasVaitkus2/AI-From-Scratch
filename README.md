@@ -191,3 +191,4 @@ In the given image below we find that Machine Learning is a subset of AI. Along 
 
 ![](images/AI.png)
 
+Figure 1: Courtesy <i> Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
