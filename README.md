@@ -188,15 +188,15 @@ Computer Vision can be said as a field which enables the machines to see. Machin
 
 Robotics: It is a field of engineering focused on the design and manufacturing of robots. Robots are often used to perform tasks that are difficult for humans to perform or perform consistently. Examples include car assembly lines, in hospitals, office cleaner, serving foods, and preparing foods in hotels, patrolling farm areas and even as police officers. Recently machine learning has been used to achieve certain good results in building robots that interact socially(Sophia)
 
+![](images/AI.png)
+
+<caption>Figure 1: Courtesy <i> Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville</i></caption>
 
 # Types of Machine Learning 
 
 In the given image below we find that Machine Learning is a subset of AI. Along with other terminology which we will discuss in this following section. 
 
-![](images/AI.png)
-
-<caption>Figure 1: Courtesy <i> Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville</i></caption>
-    
+![](images/ML.png)
     
  Machine learning can be broadly classified into three categories: 
  
