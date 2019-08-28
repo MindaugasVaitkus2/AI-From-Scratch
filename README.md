@@ -78,6 +78,8 @@ To understand more about Artificial Intelligence we look at the history of Artif
 
 Artificial conscious dates back to ancient greece, where philosopher and mythical stories have paved it's way to what we call as Artificial Intelligence. 
 
+The field of AI research was founded at a workshop held on the campus of Dartmouth College during the summer of 1956
+
 ### Rossum’s Universal Robots (R.U.R.)
 
 In 1920 the Czech writer Karel Čapek published a science fiction play named Rossumovi Univerzální Roboti (Rossum’s Universal Robots), also better known as R.U.R. The play introduced the word robot. R.U.R. deals about a factory, which creates artificial people named as robots. They differentiate from today’s term of robot. In R.U.R. robots are living creatures, who are more similar to the term of clones. The robots in R.U.R. first worked for the humans, but then there comes are robot rebellion which leads to the extinction of the human race.
