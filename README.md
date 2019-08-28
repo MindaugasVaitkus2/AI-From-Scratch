@@ -76,7 +76,7 @@ To understand more about Artificial Intelligence we look at the history of Artif
 
 ## History of AI
 
-The history of Artificial Intelligence is quite interesting and started around 100 years ago.
+Artificial conscious dates back to ancient greece, where philosopher and mythical stories have paved it's way to what we call as Artificial Intelligence. 
 
 ### Rossum’s Universal Robots (R.U.R.)
 
@@ -172,17 +172,17 @@ Artificial Intelligence is very vast field, some of which contains:
     
 ### Machine Learning
 
-Machine Learning is a subfield of AI which deals predictive analysis and deep learning. It is a method where the target(goal) is defined and the steps to reach that target is learned by the machine itself by training(gaining experience).
+Machine Learning is a subfield of AI which deals **predictive analysis** and **deep learning**. It is a method where the target(goal) is defined and the steps to reach that target is learned by the machine itself by training(gaining experience).
 
 For example to identify a simple object such as an apple or orange. The target is achieved not by explicitly specifying the details about it and coding it but it is just as we teach a child by showing multiple different pictures of it and therefore allowing the machine to define the steps to identify it like an apple or an orange.
 
 ### Natural Language Processing
 
-Natural Language Processing is broadly defined as the automatic manipulation of natural language, like speech and text, by software. One of the well-known examples of this is email spam detection as we can see how it has improved in our mail system.
+Natural Language Processing is broadly defined as the automatic manipulation of natural language, like **speech** and **text**, by software. One of the well-known examples of this is email spam detection as we can see how it has improved in our mail system.
 
 ### Computer Vision
 
-Computer Vision can be said as a field which enables the machines to see. Machine vision captures and analyses visual information using a camera, analog-to-digital conversion, and digital signal processing. It can be compared to human eyesight but it is not bound by the human limitation which can enable it to see through walls(now that would be interesting if we can have implants that can make us see through the wall). It is usually achieved through machine learning to get the best possible results so we could say that these two fields are interlinked.
+Computer Vision can be said as a field which **enables the machines to see**. Machine vision captures and analyses visual information using a camera, analog-to-digital conversion, and digital signal processing. It can be compared to human eyesight but it is not bound by the human limitation which can enable it to see through walls(now that would be interesting if we can have implants that can make us see through the wall). It is usually achieved through machine learning to get the best possible results so we could say that these two fields are interlinked.
 
 ### Robotics
 
@@ -191,7 +191,7 @@ Robotics: It is a field of engineering focused on the design and manufacturing o
 
 # Types of Machine Learning 
 
-In the given image below we find that Machine Learning is a subset of AI. Along with other terminology which we will discuss in this following section. 
+In the given image below we find that Machine Learning is a subset of AI.
 
 ![](images/AI.png)
 
@@ -201,10 +201,14 @@ In the given image below we find that Machine Learning is a subset of AI. Along 
  
     - Supervised Learning 
     - Unsupervised Learning
+    - Semisupervised Learning
     - Reinforcement Learning
 
 ![](images/ML.png)
 
+## Supervised Learning
+
+In supervised learning we do predict analysis in **dataset** where we can differentiate the input and output variables and feed them in a algorithm which can then predict the output. 
 
 
     
