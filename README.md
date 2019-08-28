@@ -198,4 +198,10 @@ In the given image below we find that Machine Learning is a subset of AI. Along 
 <caption>Figure 1: Courtesy <i> Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville</i></caption>
     
     
+ Machine learning can be broadly classified into three categories: 
  
+    - Supervised Learning 
+    - Unsupervised Learning
+    - Reinforcement Learning
+    
+  
