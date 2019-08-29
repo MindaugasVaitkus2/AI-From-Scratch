@@ -112,7 +112,7 @@ Alan Turing was born on 23rd June 1912 in London. He is widely known because of 
 
 Turing’s study also led to his theory of computation, which deals about how efficient problems can be solved. He presented his idea in the model of the Turing machine, which is today still a popular term in Computer Science. The Turing machine is an abstract machine, which can, despite the model’s simplicity, construct any algorithm’s logic. 
 
-Because of discoveries in neurology, information theory and cybernetics at the same time researchers and with them Alan Turing created the idea that *it is possible to build an electronic brain which can think and develop a human intuition.
+Because of discoveries in neurology, information theory and cybernetics at the same time researchers and with them Alan Turing created the idea that *it is possible to build an electronic brain which can think and develop a human intuition*.
 
 Some years after the end of World War 2, Turing introduced his widely known Turing Test, which was an attempt to define machines intelligent. The idea behind the test was that are machine or a system --a computer-- is then called **intelligent**, if a machine **A** and a person **B** communicate through natural language and a second person **C**, a so-called **elevator**, can not detect which of the communicators **A or B** is the machine.
 
