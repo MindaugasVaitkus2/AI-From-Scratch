@@ -83,19 +83,24 @@ Coming back to our topic. We should keep in mind that if we talk about Artificia
 To understand more about Artificial Intelligence we look at the history of Artificial Intelligence to see what it is capable of and how his status quo is related to the present.
 
 
-## History of AI
+# History of AI
 
-Artificial conscious dates back to ancient greece, where philosopher and mythical stories have paved it's way to what we call as Artificial Intelligence. 
+Artificial conscious dates back to ancient Greece, where philosopher and mythical stories have paved its way to what we call as Artificial Intelligence.
 
-The field of AI research was founded at a workshop held on the campus of Dartmouth College during the summer of 1956
+The field of AI research was founded at a workshop held on the campus of Dartmouth College during the summer of 1956 where the term Artificial Intelligence was coined for the first time. But before that history has witnessed a different form of inception for AI. 
 
-### Rossum’s Universal Robots (R.U.R.)
+## Rossum’s Universal Robots (R.U.R.)
 
-In 1920 the Czech writer Karel Čapek published a science fiction play named Rossumovi Univerzální Roboti (Rossum’s Universal Robots), also better known as R.U.R. The play introduced the word robot. R.U.R. deals about a factory, which creates artificial people named as robots. They differentiate from today’s term of robot. In R.U.R. robots are living creatures, who are more similar to the term of clones. The robots in R.U.R. first worked for the humans, but then there comes are robot rebellion which leads to the extinction of the human race.
+We all love fiction and mythological stories. Most people like to read books while others are huge movie fans. Anyway, one thing that has profoundly shaped human life is *"FICTION"*. Beginning from moral values to philosophy to Science-Fiction, thriller or be it anything, fiction or our imagination has played a major role in our evolution. 
 
-The play is quite interesting, because of different reason. First it is introducing the term robot, even if represents not exactly the modern idea of robots. Next it is also telling the story of the creation of robots, so some kind of artificial intelligence, which first seems to be a positive effect to the humans, but later on the is the robot rebellion which threat the whole human race.
+But where do these ideas come from? What is the reason behind such ideas? Is it something the universe is asking us to do? Or the greater Being who is directing our path into the unprecedented future? We have no clue. There is a debate among these things, there might be some invisible force who inspires us to think and explore the universe in its true form. Or maybe ideas are just evolving from the previous ones in a form of continuous iterations. Like phases in our life. One is certain that human beings are called for a greater destiny to comprehend the universe and take care of planet earth.
 
-Artificial Intelligence in literature and movies is a big topic for its own. The example of R.U.R. should have shown the importance and influence for Artificial Intelligence on researches and society.
+Before even Doctor Who came into existence BBC in 1920, released a show named Rossumovi Univerzální Roboti (Rossum’s Universal Robots) written by a Czech writer Karel Čapek, also better known as R.U.R. It was the first time that the term **'Robot'** came into existence. R.U.R. deals about a factory, which creates artificial people named as robots. They differentiate from today’s term of the robot. In R.U.R. robots are living creatures, who are more similar to the term of clones. The robots in R.U.R. first worked for humans, but then there comes are robot rebellion which leads to the extinction of the human race.
+The play is quite interesting, because of different reason. First, it is introducing the term robot, even if represents not exactly the modern idea of robots. Next, it is also telling the story of the creation of robots, so some kind of artificial intelligence, which first seems to be a positive effect on humans.
+
+Artificial Intelligence in literature and movies is a big topic for its own. The example of R.U.R. should have shown the importance and influence of Artificial Intelligence on researches and society.
+
+
 
 ### Alan Turing
 
