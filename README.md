@@ -48,31 +48,40 @@ Our brain is one of the most important parts of our body. But, why it is importa
 
 The brain is one of the most complex organs in a human system. It carefully observes all the information and stores it inside of it. Memories aren’t stored in just one part of the brain. Different types are stored across different, interconnected brain regions. For explicit memories – which are about events that happened to you (episodic), as well as general facts and information (semantic) – there are three important areas of the brain: **the hippocampus, the neocortex and the amygdala**. Implicit memories, such as motor memories, rely on **the basal ganglia and cerebellum**. Short-term working memory relies most heavily on the **prefrontal cortex**.
 
-![]
+![](images/Brain.jpg)
+
+
 The role of a brain in a human system is not limited to observing and storing information but far more than that. It controls the whole human system. Right from the eyes to the ears, our heart, our lungs, every part is controlled by the brain. Its main function is to survive, evolve and add meaning to life. Besides talking about the subconscious, the brain has played in the major part for the survival of the Human race.
 
-<b>But what if we can replicate the brain outside the Human system?</b><br>
-Yes, we can. Welcome to <b> Artificial Intelligence</b>. 
+**But what if we can replicate the brain outside the Human system?**
+Yes, we can. Welcome to **Artificial Intelligence.
 
-<b>What is Artificial Intelligence?</b>
+What is **Artificial Intelligence?
 
-It is derived from two words <b>Artificial</b> and <b>Intelligence</b>. Let's break them down. 
+It is derived from two words **Artificial and Intelligence**. Let's break them down.
 
-<b>Artificial</b> is something that is not real and which is kind of fake because it is simulated. The simplest thing what I can think of which is artificial is artificial grass or even light. Artificial grass is not real grass nor is light, so the latter is kind of fake. It is used to substitute real grass for various reason. Artificial grass is often used for sports, because it is more resistant and therefore can be used longer than real grass. It is also easier to care than real grass. And when we talk about artificial light like bulb or led they can used whenever we want them to used unlike sunlight which is wrap around time and which can only used when time allow us to use. But that is not the point I want to make. The point is, that there are reasons why some things are artificial and substitute real things.
+**Artificial** is something that is not real and which is kind of fake because it is simulated. The simplest thing what I can think of which is artificial grass or even light. Artificial grass is not real grass nor is light, so the latter is kind of fake. It is used to substitute real grass for various reason. Artificial grass is often used for sports because it is more resistant and therefore can be used longer than real grass. It is also easier to care than real grass. And when we talk about artificial light like a bulb or led they can be used whenever we want them to use, unlike sunlight which is wrap-around time and which can only be used when time allows us to use. But that is not the point I want to make. The point is, that there are reasons why some things are artificial and substitute real things.
 
-<b>Intelligence</b> is are very complex term. It can be defined in many different ways like logic, understanding, self-awareness, learning, emotional knowledge, planning, creativity and of course problem solving.
+*"Anything that is inspired by nature and is reproduced by the human being by some fashion or process is own as Artificial." 
 
-We call us, humans, intelligent, because we all do this mentioned things. We perceive our environment, learn from it and take action based on what we discovered.
+**Intelligence** is a very complex term. It can be defined in many different ways like ***logic, understanding, self-awareness, learning, emotional knowledge, planning, creativity and of course problem-solving**.
+
+We call us, humans, intelligent because we all do these mentioned things. We perceive our environment, learn from it and take action based on what we discovered.
 
 The same applies to animals. The interesting point about intelligence on animals is, that there are many different species and because of that we can compare intelligence on between species.
 
-In both cases (human intelligence and animal intelligence) we talk about natural intelligence (NI).
+In both cases -- human intelligence and animal intelligence -- we talk about **Natural intelligence.
 
-Next to humans and animals there has been argued about plant intelligence. Intelligence in plants shows off kind of different from humans or animals. The main reason is here because plants are not having a brain or neuronal network, but they react to their environment. Plant intelligence is a very interesting topic on its own, because plant intelligence is not instantly visible through reactions through movement or lute.
+Next to humans and animals there has been argued about **plant intelligence**. Intelligence in plants shows off the kind of different from humans or animals. The main reason is here that plants are not having a brain or neuronal network, but they react to their environment. Plant intelligence is a very interesting topic on its own because plant intelligence is not instantly visible through reactions through movement or lute.
 
-If we talk about Artificial Intelligence (AI) we refer to a subfield of Computer Science. Artificial Intelligence is acted by machines, computers and mainly software. Machines mimic, here we see why it is called artificial, some kind of cognitive function based on environment, observations, rewards and learning process.
+But, one question arises. If both animal and human beings have brains then why do human being stand on top of the evolutionary cycle?
+
+The answer I got while reading a book called **'Homo Deus'** by Noah Yuval Harari. He mentioned that "*Humans nowadays completely dominate the planet not because the individual human is far smarter and more nimble-fingered than the individual chimp or wolf, but because Homo sapiens is the only species on earth capable of cooperating flexibly in large numbers. Intelligence and toolmaking were very important as well. But if humans had not learned to cooperate flexibly in large numbers, our crafty brains and deft hands would still be splitting flint stones rather than uranium atoms".
+
+Coming back to our topic. We should keep in mind that if we talk about Artificial Intelligence (AI) we refer to a subfield of Computer Science. 
 
 To understand more about Artificial Intelligence we look at the history of Artificial Intelligence to see what it is capable of and how his status quo is related to the present.
+
 
 ## History of AI
 
