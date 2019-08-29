@@ -87,6 +87,9 @@ To understand more about Artificial Intelligence we look at the history of Artif
 
 Artificial conscious dates back to ancient Greece, where philosopher and mythical stories have paved its way to what we call as Artificial Intelligence.
 
+
+*I believe that whatever the universe is about to see in the future already exists in our past and present. Nothing is new.  Its all hidden in the Womb of the Universe.*
+
 The field of AI research was founded at a workshop held on the campus of Dartmouth College during the summer of 1956 where the term Artificial Intelligence was coined for the first time. But before that history has witnessed a different form of inception for AI. 
 
 ## Rossum’s Universal Robots (R.U.R.)
@@ -119,6 +122,8 @@ Some years after the end of World War 2, Turing introduced his widely known Turi
 ![](images/enigma.jpg)
 
 ### The Dartmouth conference
+
+
 
 In 1956 there was probably the first workshop of Artificial Intelligence and with it the field of AI research was born. Researcher from Carnegie Mellon University (CMU), Massachusetts Institute of Technology (MIT) and employee from IBM met together and founded the AI research. In the following years they made huge process. Nearly everybody was very optimistic.
 
