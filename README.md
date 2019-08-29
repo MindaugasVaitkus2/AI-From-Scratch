@@ -93,20 +93,28 @@ The field of AI research was founded at a workshop held on the campus of Dartmou
 
 We all love fiction and mythological stories. Most people like to read books while others are huge movie fans. Anyway, one thing that has profoundly shaped human life is *"FICTION"*. Beginning from moral values to philosophy to Science-Fiction, thriller or be it anything, fiction or our imagination has played a major role in our evolution. 
 
-But where do these ideas come from? What is the reason behind such ideas? Is it something the universe is asking us to do? Or the greater Being who is directing our path into the unprecedented future? We have no clue. There is a debate among these things, there might be some invisible force who inspires us to think and explore the universe in its true form. Or maybe ideas are just evolving from the previous ones in a form of continuous iterations. Like phases in our life. One is certain that human beings are called for a greater destiny to comprehend the universe and take care of planet earth.
+But where do these ideas come from? What is the reason behind such ideas? Is it something the universe is asking us to do? Or there is a greater Being who is directing our path into the unprecedented future? We have no clue. There is a debate among these things, there might be some invisible force who inspires us to think and explore the universe in its true form. Or maybe ideas are just evolving from the previous ones in a form of continuous iterations. Like phases in our life. One is certain that human beings are called for a greater destiny to comprehend the universe and take care of planet earth.
 
 Before even Doctor Who came into existence BBC in 1920, released a show named Rossumovi Univerzální Roboti (Rossum’s Universal Robots) written by a Czech writer Karel Čapek, also better known as R.U.R. It was the first time that the term **'Robot'** came into existence. R.U.R. deals about a factory, which creates artificial people named as robots. They differentiate from today’s term of the robot. In R.U.R. robots are living creatures, who are more similar to the term of clones. The robots in R.U.R. first worked for humans, but then there comes are robot rebellion which leads to the extinction of the human race.
 The play is quite interesting, because of different reason. First, it is introducing the term robot, even if represents not exactly the modern idea of robots. Next, it is also telling the story of the creation of robots, so some kind of artificial intelligence, which first seems to be a positive effect on humans.
 
 Artificial Intelligence in literature and movies is a big topic for its own. The example of R.U.R. should have shown the importance and influence of Artificial Intelligence on researches and society.
 
+![](images/Robot.jpg)
 
+### Alan Turing and World War 2
 
-### Alan Turing
+Believe it or not, *when cataclysm or crisis rain and befall on mankind circumstances give us a better reason to evolve and survive*. Wars are no different than that. 
 
-Alan Turing was born on 23th June 1912 in London. He is widely known, because the encrypted the code of the enigma, which were used from Nazi Germany to communicate. Alan Turing’s study also led to his theory of computation, which deals about how efficient problems can be solved. His presented his idea in the model of the Turing machine, which is today still a popular term in Computer Science. The Turing machine is an abstract machine, which can ,despite the model’s simplicity, construct any algorithm’s logic. Because of discoveries in neurology, information theory and cybernetics in the same time researches and with them Alan Turing created the idea that it is possible to build an electronic brain.
+A lot of inventions and revolution takes place in the wartime. 
 
-Some years after the end of World War 2, Turing introduced his widely known Turing Test, which was an attempt to define machines intelligent. The idea behind the test was that are machine (e.g. a computer) is then called intelligent, if a machine (A) and a person (B) communicate through natural language and a second person (C), a so-called elevator, can not detect which of the communicators (A or B) is the machine.
+Alan Turing was born on 23rd June 1912 in London. He is widely known because of his encrypted code of the enigma, which was used from Nazi Germany to communicate during the second world war. 
+
+Turing’s study also led to his theory of computation, which deals about how efficient problems can be solved. He presented his idea in the model of the Turing machine, which is today still a popular term in Computer Science. The Turing machine is an abstract machine, which can, despite the model’s simplicity, construct any algorithm’s logic. 
+
+Because of discoveries in neurology, information theory and cybernetics at the same time researchers and with them Alan Turing created the idea that it is possible to build an electronic brain which can think and develop a human intuition.
+
+Some years after the end of World War 2, Turing introduced his widely known Turing Test, which was an attempt to define machines intelligent. The idea behind the test was that are machine or a system (e.g. a computer) is then called intelligent, if a machine (A) and a person (B) communicate through natural language and a second person (C), a so-called elevator, can not detect which of the communicators (A or B) is the machine.
 
 ### The Dartmouth conference
 
