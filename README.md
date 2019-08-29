@@ -114,9 +114,10 @@ Turing’s study also led to his theory of computation, which deals about how ef
 
 Because of discoveries in neurology, information theory and cybernetics at the same time researchers and with them Alan Turing created the idea that *it is possible to build an electronic brain which can think and develop a human intuition.
 
-Some years after the end of World War 2, Turing introduced his widely known Turing Test, which was an attempt to define machines intelligent. The idea behind the test was that are machine or a system (e.g. a computer) is then called intelligent, if a machine **A** and a person **B** communicate through natural language and a second person (C), a so-called elevator, can not detect which of the communicators **A or B** is the machine.
+Some years after the end of World War 2, Turing introduced his widely known Turing Test, which was an attempt to define machines intelligent. The idea behind the test was that are machine or a system --a computer-- is then called **intelligent**, if a machine **A** and a person **B** communicate through natural language and a second person **C**, a so-called **elevator**, can not detect which of the communicators **A or B** is the machine.
 
 ![](images/enigma.jpg)
+
 ### The Dartmouth conference
 
 In 1956 there was probably the first workshop of Artificial Intelligence and with it the field of AI research was born. Researcher from Carnegie Mellon University (CMU), Massachusetts Institute of Technology (MIT) and employee from IBM met together and founded the AI research. In the following years they made huge process. Nearly everybody was very optimistic.
