@@ -59,4 +59,7 @@ To build a basic intuition regarding these topic I would recomend you to watch <
 
  ![](../images/dotproduct.png)
  
-<caption>Courtesy: Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville
+<caption>Courtesy: Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville</caption>
+  
+  ![](../images/identity.png)
+  <caption>Courtesy: Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville</caption>
