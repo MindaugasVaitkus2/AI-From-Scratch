@@ -33,6 +33,25 @@ The following are the given important concepts and terms that we will be using t
 
 ## Scalars, Vectors, Matrices and Tensors
 
+  - **Vector** is a 1-dimensional array which represents both direction and magnitude of the vector in a vector space. What is a vector space? Think of a vector as an open field where a point is located. The point is a vector. For you to reach to that point you need two things : one is the latitude and the second is the longitude. A vector is made up of these two coordinates a x-axis and a y-axis. 
+  
+  The direction is where the point lies in a given vector space whereas the magnitude is like a distance how long is that point from the orgin. 
+  
+  - Vectors are basically lists which can have infinite elements present in them. 
+  - They are 1-dimensional
+  - They represents direction and magnitude
+  - It is denoted by *x* where **x** belongs to a vector of n rows 
+  
+  
+  **Scalars** on the other hand are the numbers that can change the property of the vector. They are single numbers. A scalar is denoted by italic alphabet *x*
+  
+  **Matrix** are 2-dimensional rectangular representation of rows and columns. When the vectors are stacked side by we form a matrix. Matrix can have infinite number of vectors in them. 
+  
+  **Tensors** are matrix with more than two dimensions.  
+  
+# Matrix Operations
+The whole of the Linear Algebra revolves around two operations Matrix multiplication and addition. 
+
 ## Multiplying Matrices and Vectors
 
 ## Identity and Inverse Matrices
