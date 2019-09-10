@@ -68,6 +68,7 @@ To build a basic intuition regarding these topic I would recomend you to watch <
  ## System of Linear Algebra
  
  There are three solving system of linear algebra:
+    
     - No Solution 
     - Infinite many solution 
     - Only one solution
