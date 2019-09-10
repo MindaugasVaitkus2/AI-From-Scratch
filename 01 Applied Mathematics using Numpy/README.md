@@ -49,27 +49,12 @@ The following are the given important concepts and terms that we will be using t
   
   **Tensors** are matrix with more than two dimensions.  
   
+  
+  **PS**: To understand these topic more clearly I recommend you to watch a series of video by Grant Sanderson called <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"> The Essence of Linear Algebra </a>.
+  
 # Matrix Operations
-The whole of the Linear Algebra revolves around two operations Matrix multiplication and addition. 
+The whole of the Linear Algebra revolves around two operations Matrix multiplication and addition. It is how we operate them help us to reach a point in a given vector space.
 
-## Multiplying Matrices and Vectors
+To build a basic intuition regarding these topic I would recomend you to watch <a href = "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:properties-of-matrix-multiplication/v/defined-and-undefined-matrix-operations"> Khan's Academy Video on Matrix operations </a>.
 
-## Identity and Inverse Matrices
-
-## Linear Dependence and Span
-
-## Norms
-
-## Special Kinds of Matrices and Vectors
-
-## Eigendecomposition
-
-## Singular Value Decomposition
-
-## The Moore-Penrose Pseudoinverse
-
-## The Trace Operator
-
-## The Determinant
-
-## Example: Principal Components Analysis
+ 
