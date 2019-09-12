@@ -52,7 +52,7 @@ The following are the given important concepts and terms that we will be using t
   
   **PS**: To understand these topic more clearly I recommend you to watch a series of video by Grant Sanderson called <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" target='_blank'> The Essence of Linear Algebra </a>.
   
-# Matrix Operations
+## Matrix Operations
 The whole of the Linear Algebra revolves around two operations Matrix multiplication and addition. It is how we operate them help us to reach a point in a given vector space.
 
 To build a basic intuition regarding these topic I would recomend you to watch <a href = "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:properties-of-matrix-multiplication/v/defined-and-undefined-matrix-operations"> Khan's Academy Video on Matrix operations </a>.
@@ -63,3 +63,18 @@ To build a basic intuition regarding these topic I would recomend you to watch <
   
   ![](../images/identity.png)
   <caption>Courtesy: Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville</caption>
+  
+  
+ ## System of Linear Algebra
+ 
+ There are three solving system of linear algebra:
+    
+    - No Solution 
+    - Infinite many solution 
+    - Only one solution
+    
+## Matrix Inversion 
+
+If A is a matrix of a given rows and columns when multiplied by an identity matrix is the original matirx A. Which is given by the formula : A*I* = A 
+
+The inverse of the matrix is given by **A.A<sup>-1</sup> = *I***.
