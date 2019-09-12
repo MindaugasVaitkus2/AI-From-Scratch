@@ -25,5 +25,5 @@ This repo is inspired by many authors. Like Andrew Ng, Ian Goodfellow, Lex Fridm
        
        - A simple NN graph:
        
-
+ ![](../images/neuralnets.jpg)
   
