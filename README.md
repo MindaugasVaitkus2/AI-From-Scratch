@@ -8,14 +8,16 @@
     - Linear Algebra
     - Probability and Statistics
     - Numerial Computation
-- Basic of Machine Learning
-- Supervised Learning
-    - Linear Regression
-    - Classification
-    - Essemble Methods
+- Intro to Deep Learning with Keras
+- Intro to CNN with Pytorch
+    - Gradient Descent
+    - Linear Nets
+    - ConvNets - 1 
+    - ConvNets - 2
+    - Confusion Matrix
+- Natural Language Processing with Pytorch
 - Modern Approach of Deep Learning
-    - Introduction with Perceptron
-    - MLP
+    - Geneartive Adversarial Nets
 - Unsupervised Learning 
 - Reinforcement Learning 
 - Q-Learning 
