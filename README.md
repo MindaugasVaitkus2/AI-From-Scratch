@@ -9,6 +9,9 @@
     - Probability and Statistics
     - Numerial Computation
 - Intro to Deep Learning with Keras
+    - Intro to CNN
+    - Intro to LSTM
+    - Autoencoder
 - Intro to CNN with Pytorch
     - Gradient Descent
     - Linear Nets
