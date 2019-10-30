@@ -10,6 +10,7 @@
     - Numerial Computation
 - Intro to Deep Learning with Keras
     - Intro to CNN
+    - Transfer Learning
     - Intro to LSTM
     - Autoencoder
 - Intro to CNN with Pytorch
