@@ -2,7 +2,6 @@
 
 - Introduction 
 - Applied Mathematics using Numpy
-    - Why Mathematics?
     - General Terms
     - Introduction to Numpy
     - Linear Algebra
