@@ -20,7 +20,7 @@
     - Confusion Matrix
 - Natural Language Processing with Pytorch
 - Modern Approach of Deep Learning
-    - Geneartive Adversarial Nets
+    - Geneartive Adversarial Network
 - Unsupervised Learning 
 - Reinforcement Learning 
 - Q-Learning 
