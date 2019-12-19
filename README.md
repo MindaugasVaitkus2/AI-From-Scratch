@@ -23,7 +23,6 @@
     - Geneartive Adversarial Network
 - Unsupervised Learning 
 - Reinforcement Learning 
-- Q-Learning 
 
 
 This Program is inspired by (Make sure you read in the order mentioned below in order to get an intuitive knowledge of the subject. Let's Build the Intuition) :
