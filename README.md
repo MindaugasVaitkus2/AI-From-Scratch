@@ -2,7 +2,7 @@
 
 - Introduction 
 - Applied Mathematics using Numpy
-    - General Terms
+    - General Term in Maths
     - Introduction to Numpy
     - Linear Algebra
     - Probability and Statistics
