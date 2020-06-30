@@ -1,7 +1,7 @@
 # Course Cirruculum
 
 - Introduction 
-- Applied Mathematics using Numpy
+- Applied Maths using Numpy
     - General Term in Maths
     - Introduction to Numpy
     - Linear Algebra
