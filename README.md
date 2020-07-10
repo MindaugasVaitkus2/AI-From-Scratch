@@ -1,4 +1,4 @@
-# Course Cirruculum
+# Contents
 
 - Introduction 
 - Applied Maths using Numpy
