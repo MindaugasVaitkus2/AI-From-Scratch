@@ -1,7 +1,7 @@
 # Contents
 
 - Introduction 
-- Applied Math using Numpy
+- Applied Mathematics using Numpy
     - General Term in Maths
     - Introduction to Numpy
     - Linear Algebra
