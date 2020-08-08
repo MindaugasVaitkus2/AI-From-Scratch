@@ -1,4 +1,4 @@
-# Contents
+# Content
 
 - Introduction 
 - Applied Mathematics using Numpy
